@@ -3,3 +3,8 @@ git status
 git add index.html
 git commit -m "new test index file
 git push
+
+————
+git rm index.html
+git commit -m "rm index file"
+git push
