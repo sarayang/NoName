@@ -8,3 +8,6 @@ git push
 git rm index.html
 git commit -m "rm index file"
 git push
+
+——
+git log
